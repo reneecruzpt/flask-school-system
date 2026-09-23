@@ -1,0 +1,1 @@
+console.log("Site estático carregado com Flask!");

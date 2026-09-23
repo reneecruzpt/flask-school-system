@@ -1,0 +1,11 @@
+# Generated files and local secrets
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
